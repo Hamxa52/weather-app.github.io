@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Hamxa52/weather-app.githhub.io/static/css/main.02585b71.chunk.css",
+    "main.js": "/Hamxa52/weather-app.githhub.io/static/js/main.29df687c.chunk.js",
+    "main.js.map": "/Hamxa52/weather-app.githhub.io/static/js/main.29df687c.chunk.js.map",
+    "runtime-main.js": "/Hamxa52/weather-app.githhub.io/static/js/runtime-main.c1939548.js",
+    "runtime-main.js.map": "/Hamxa52/weather-app.githhub.io/static/js/runtime-main.c1939548.js.map",
+    "static/js/2.701fe897.chunk.js": "/Hamxa52/weather-app.githhub.io/static/js/2.701fe897.chunk.js",
+    "static/js/2.701fe897.chunk.js.map": "/Hamxa52/weather-app.githhub.io/static/js/2.701fe897.chunk.js.map",
+    "index.html": "/Hamxa52/weather-app.githhub.io/index.html",
+    "precache-manifest.4361e913ba2d09abcf0465459c96b692.js": "/Hamxa52/weather-app.githhub.io/precache-manifest.4361e913ba2d09abcf0465459c96b692.js",
+    "service-worker.js": "/Hamxa52/weather-app.githhub.io/service-worker.js",
+    "static/css/main.02585b71.chunk.css.map": "/Hamxa52/weather-app.githhub.io/static/css/main.02585b71.chunk.css.map",
+    "static/js/2.701fe897.chunk.js.LICENSE.txt": "/Hamxa52/weather-app.githhub.io/static/js/2.701fe897.chunk.js.LICENSE.txt",
+    "static/media/WeatherIcons.gif": "/Hamxa52/weather-app.githhub.io/static/media/WeatherIcons.0a218296.gif",
+    "static/media/App.css": "/Hamxa52/weather-app.githhub.io/static/media/city.e1698332.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1939548.js",
+    "static/js/2.701fe897.chunk.js",
+    "static/css/main.02585b71.chunk.css",
+    "static/js/main.29df687c.chunk.js"
+  ]
+}
